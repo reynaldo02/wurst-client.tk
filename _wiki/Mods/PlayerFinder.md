@@ -11,3 +11,4 @@ labels:
 
 ## Overview
 PlayerFinder is a mod that finds far players during thunderstorms.
+schiso
